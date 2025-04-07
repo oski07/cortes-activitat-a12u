@@ -14,3 +14,7 @@ Aquest projecte té com a objectiu:
 - **Guardar les notes a `localStorage`** per mantenir la persistència entre sessions.
 - **Aprendre a gestionar Git** i **afegir un fitxer `.gitignore`** per evitar pujar fitxers innecessaris.
 - **Documentar el projecte** amb un `README.md` atractiu, seguint els estàndards de Markdown.
+
+## 🖼️ **Visita el projecte**
+
+Pots veure el codi font del projecte al meu repositori de GitHub:
