@@ -18,3 +18,4 @@ Aquest projecte té com a objectiu:
 ## 🖼️ **Visita el projecte**
 
 Pots veure el codi font del projecte al meu repositori de GitHub:
+🔗 [**Gestor de Notes al meu GitHub**](https://github.com/ELTEUGITHUB/gestor-notes)
