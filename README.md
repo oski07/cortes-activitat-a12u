@@ -6,3 +6,11 @@
 
 ---
 ## 🎯 **Objectius del projecte**
+Aquest projecte té com a objectiu:
+Aquest projecte té com a objectiu:
+
+- **Crear una interfície web** utilitzant **HTML**, **CSS** i **JavaScript**.
+- **Manipular el DOM** per afegir, mostrar i eliminar notes.
+- **Guardar les notes a `localStorage`** per mantenir la persistència entre sessions.
+- **Aprendre a gestionar Git** i **afegir un fitxer `.gitignore`** per evitar pujar fitxers innecessaris.
+- **Documentar el projecte** amb un `README.md` atractiu, seguint els estàndards de Markdown.
