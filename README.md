@@ -1,3 +1,5 @@
+# Grande ande o no ande  
+
 # 📝 **Gestor de Notes**
 
 **Gestor de Notes** és una aplicació web senzilla i funcional que permet crear, visualitzar i esborrar notes directament des del navegador. Les notes es guarden localment mitjançant l'API `localStorage`, cosa que permet que siguin persistents fins i tot després de tancar el navegador.
@@ -18,6 +20,6 @@ Aquest projecte té com a objectiu:
 ## 🖼️ **Visita el projecte**
 
 Pots veure el codi font del projecte al meu repositori de GitHub:
-🔗 [**Gestor de Notes al meu GitHub**](https://github.com/ELTEUGITHUB/gestor-notes)
+🔗 [**Gestor de Notes al meu GitHub**]https://github.com/oski07/cortes-activitat-a12u.git
 
 ## **TREBALL FINIALITZAT**
