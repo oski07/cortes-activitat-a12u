@@ -19,3 +19,5 @@ Aquest projecte té com a objectiu:
 
 Pots veure el codi font del projecte al meu repositori de GitHub:
 🔗 [**Gestor de Notes al meu GitHub**](https://github.com/ELTEUGITHUB/gestor-notes)
+
+## **TREBALL FINIALITZAT**
