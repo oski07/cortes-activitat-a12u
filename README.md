@@ -5,3 +5,4 @@
 > “Un projecte senzill però potent que m'ha ajudat a millorar la meva comprensió sobre la manipulació del DOM i l'emmagatzematge local."
 
 ---
+## 🎯 **Objectius del projecte**
